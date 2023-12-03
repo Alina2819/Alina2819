@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Alina 
+- 👀 I’m interested in CSharp
+- 🌱 I’m currently learning Programming Fundamentals with CSharp
